@@ -1,0 +1,12 @@
+{
+    "new_member_role_assignment": true,
+    "new_member_role": "Proletariat",
+    "image_reactions": true,
+    "image_reactions_channel": "shitty-reddit",
+    "image_reaction_upvote_emoji_id": "572520773059870730",
+    "image_reaction_downvote_emoji_id": "572520746505469962",
+    "communism_enabled": true,
+    "fascism_enabled": true,
+    "egg_call_and_response_enabled": true,
+    "playing_game_message": "Implementing Communism"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "otterbot-kelly",
+  "version": "1.0.0",
+  "description": "A discord bot named Kelly",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "git-rev-sync": "^1.12.0",
+    "pkginfo": "^0.4.1",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SovietCommandantOtter/Otterbot-Kelly.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Jack Pirone",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SovietCommandantOtter/Otterbot-Kelly/issues"
+  },
+  "homepage": "https://github.com/SovietCommandantOtter/Otterbot-Kelly#readme"
+}

@@ -60,6 +60,16 @@ client.on('message', msg => {
   }
 });
 
+client.on('message', msg => {
+  if (msg.content === '!heil' && fascism === true) {
+    msg.channel.send('HEIL BRANDT', {
+            files: [
+                "./t.png"
+            ]
+        }); 
+  }
+});
+
 //Assign all new members who join the Proletariat role, and log that-------------------------------
 client.on('guildMemberAdd', (guildMember) => {
     if(newMemberRoleAssignment === true) {
